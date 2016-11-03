@@ -1,0 +1,18 @@
+.text {
+
+}
+
+#title {
+    font-weight: bold;
+    margin: 40px;
+}
+
+.panel {
+    background-color: red;
+}
+
+.panel:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
